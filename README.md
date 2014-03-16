@@ -4,12 +4,12 @@ Multiclass-Object-classification
  as a part of the Tagme Machine Learning Contest 2014
  held by Indian Institute of Science Bangalore.
 
- A brief summary of the algorithms is available at https://docs.google.com/file/d/0B_i42sRcBimDLTQ1VXN2SWdyemM/
+ A brief summary of the algorithms used is available at https://docs.google.com/file/d/0B_i42sRcBimDLTQ1VXN2SWdyemM/
 1. Installation
 ===============
    Please add the vlfeat software and libsvm software
    (links given in the writeup)    
-   into the MAtlab PATH variable or set the path of thes
+   into the Matlab PATH variable or set the path of thes
    softwares from the File->Set Path GUI option in the 
    Matlab window.
 
