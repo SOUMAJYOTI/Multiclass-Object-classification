@@ -1,9 +1,10 @@
 Multiclass-Object-classification
 ================================
-% Written by Soumajyoti Sarkar
-% as a part of the Tagme Machine Learning Contest 2014
-% held by Indian Institute of Science Bangalore.
+ Written by Soumajyoti Sarkar
+ as a part of the Tagme Machine Learning Contest 2014
+ held by Indian Institute of Science Bangalore.
 
+ A brief summary of the algorithms is available at https://docs.google.com/file/d/0B_i42sRcBimDLTQ1VXN2SWdyemM/
 1. Installation
 ===============
    Please add the vlfeat software and libsvm software
