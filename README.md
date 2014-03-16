@@ -1,7 +1,7 @@
 Multiclass-Object-classification
 ================================
  Written by Soumajyoti Sarkar
- as a part of the Tagme Machine Learning Contest 2014
+ as part of the Tagme Machine Learning Contest 2014
  held by Indian Institute of Science Bangalore.
 
  A brief summary of the algorithms used is available at https://docs.google.com/file/d/0B_i42sRcBimDLTQ1VXN2SWdyemM/
