@@ -4,7 +4,7 @@ Multiclass-Object-classification
  as part of the Tagme Machine Learning Contest 2014
  held by Indian Institute of Science Bangalore.
 
- A brief description of the algorithms used is available at https://docs.google.com/file/d/0B_i42sRcBimDLTQ1VXN2SWdyemM/
+ A brief description of the algorithms used is explained here https://docs.google.com/file/d/0B_i42sRcBimDLTQ1VXN2SWdyemM/
 1. Installation
 ===============
    Please add the vlfeat software and libsvm software
