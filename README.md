@@ -65,6 +65,4 @@ Multiclass-Object-classification
 =========================
    Soumajyoti Sarkar
    Email: ergy.ergy@gmail.com
-   Phone: +91-9434591934.
-
 
